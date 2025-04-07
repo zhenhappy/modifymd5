@@ -33,7 +33,7 @@
 6. 将脚本内容复制到脚本编辑框中
 7. 保存快速操作（为其取一个容易识别的名字，如"批量修改MD5"）
 
-![安装步骤示意图](screenshot.png)
+![安装步骤示意图](https://gh-proxy.com/https://raw.githubusercontent.com/zhenhappy/modifymd5/refs/heads/main/screenshot.png)
 
 ## 使用方法
 
